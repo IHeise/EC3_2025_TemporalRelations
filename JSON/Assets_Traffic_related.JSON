@@ -1,0 +1,351 @@
+[
+  {
+    "Asset1": {
+      "Type": "Structure",
+      "ID": "5340700 1 ",
+      "localisation": null,
+      "Inspections": [
+        {
+          "Year": "2020-04-14 00:00:00",
+          "ConditionGrade": 2.4
+        },
+        {
+          "Year": "2009-09-25 00:00:00",
+          "ConditionGrade": 2.4
+        },
+        {
+          "Year": "2014-07-14 00:00:00",
+          "ConditionGrade": 2.4
+        },
+        {
+          "Year": "2002-12-19 00:00:00",
+          "ConditionGrade": 2.3
+        },
+        {
+          "Year": "2012-06-07 00:00:00",
+          "ConditionGrade": 2.4
+        },
+        {
+          "Year": "1999-08-27 00:00:00",
+          "ConditionGrade": 2.3
+        },
+        {
+          "Year": "1994-11-09 00:00:00",
+          "ConditionGrade": 0.0
+        },
+        {
+          "Year": "2006-01-18 00:00:00",
+          "ConditionGrade": 2.5
+        },
+        {
+          "Year": "2017-08-10 00:00:00",
+          "ConditionGrade": 2.4
+        },
+        {
+          "Year": "1996-09-26 00:00:00",
+          "ConditionGrade": 2.5
+        }
+      ]
+    },
+    "Asset2": {
+      "Type": "CountingPoint",
+      "ID": "S8a2d544c771381270177295a0b846668",
+      "localisation": null,
+      "TrafficCountings": [
+        {
+          "Year": "2010",
+          "TrafficData": "6091"
+        },
+        {
+          "Year": "2019",
+          "TrafficData": "8431"
+        },
+        {
+          "Year": "2013",
+          "TrafficData": "6520"
+        },
+        {
+          "Year": "2008",
+          "TrafficData": "6264"
+        },
+        {
+          "Year": "2012",
+          "TrafficData": "6404"
+        },
+        {
+          "Year": "2003",
+          "TrafficData": "5721"
+        },
+        {
+          "Year": "2004",
+          "TrafficData": "5942"
+        },
+        {
+          "Year": "2011",
+          "TrafficData": "6474"
+        },
+        {
+          "Year": "2018",
+          "TrafficData": "8294"
+        },
+        {
+          "Year": "2001",
+          "TrafficData": "5667"
+        },
+        {
+          "Year": "2000",
+          "TrafficData": "5320"
+        },
+        {
+          "Year": "2007",
+          "TrafficData": "6527"
+        },
+        {
+          "Year": "2005",
+          "TrafficData": "5513"
+        },
+        {
+          "Year": "2016",
+          "TrafficData": "7541"
+        },
+        {
+          "Year": "2002",
+          "TrafficData": "5738"
+        },
+        {
+          "Year": "2015",
+          "TrafficData": "7134"
+        },
+        {
+          "Year": "2009",
+          "TrafficData": "5647"
+        },
+        {
+          "Year": "2017",
+          "TrafficData": "8095"
+        },
+        {
+          "Year": "2006",
+          "TrafficData": "5805"
+        },
+        {
+          "Year": "2014",
+          "TrafficData": "6827"
+        }
+      ]
+    },
+    "Rel_ID": 1
+  },
+  {
+    "Asset1": {
+      "Type": "Structure",
+      "ID": "5340700 2 ",
+      "localisation": null,
+      "Inspections": [
+        {
+          "Year": "2017-08-10 00:00:00",
+          "ConditionGrade": 2.4
+        },
+        {
+          "Year": "2020-04-14 00:00:00",
+          "ConditionGrade": 2.4
+        },
+        {
+          "Year": "1994-11-09 00:00:00",
+          "ConditionGrade": 0.0
+        },
+        {
+          "Year": "1996-09-26 00:00:00",
+          "ConditionGrade": 2.5
+        },
+        {
+          "Year": "2006-01-18 00:00:00",
+          "ConditionGrade": 2.5
+        },
+        {
+          "Year": "2009-09-25 00:00:00",
+          "ConditionGrade": 2.5
+        },
+        {
+          "Year": "2014-07-14 00:00:00",
+          "ConditionGrade": 2.5
+        },
+        {
+          "Year": "2002-12-19 00:00:00",
+          "ConditionGrade": 2.3
+        },
+        {
+          "Year": "2012-06-07 00:00:00",
+          "ConditionGrade": 2.5
+        },
+        {
+          "Year": "1999-08-27 00:00:00",
+          "ConditionGrade": 2.3
+        }
+      ]
+    },
+    "Asset2": {
+      "Type": "CountingPoint",
+      "ID": "S8a2d544c771381270177295a0b846668",
+      "localisation": null,
+      "TrafficCountings": [
+        {
+          "Year": "2010",
+          "TrafficData": "6091"
+        },
+        {
+          "Year": "2019",
+          "TrafficData": "8431"
+        },
+        {
+          "Year": "2013",
+          "TrafficData": "6520"
+        },
+        {
+          "Year": "2008",
+          "TrafficData": "6264"
+        },
+        {
+          "Year": "2012",
+          "TrafficData": "6404"
+        },
+        {
+          "Year": "2003",
+          "TrafficData": "5721"
+        },
+        {
+          "Year": "2004",
+          "TrafficData": "5942"
+        },
+        {
+          "Year": "2011",
+          "TrafficData": "6474"
+        },
+        {
+          "Year": "2018",
+          "TrafficData": "8294"
+        },
+        {
+          "Year": "2001",
+          "TrafficData": "5667"
+        },
+        {
+          "Year": "2000",
+          "TrafficData": "5320"
+        },
+        {
+          "Year": "2007",
+          "TrafficData": "6527"
+        },
+        {
+          "Year": "2005",
+          "TrafficData": "5513"
+        },
+        {
+          "Year": "2016",
+          "TrafficData": "7541"
+        },
+        {
+          "Year": "2002",
+          "TrafficData": "5738"
+        },
+        {
+          "Year": "2015",
+          "TrafficData": "7134"
+        },
+        {
+          "Year": "2009",
+          "TrafficData": "5647"
+        },
+        {
+          "Year": "2017",
+          "TrafficData": "8095"
+        },
+        {
+          "Year": "2006",
+          "TrafficData": "5805"
+        },
+        {
+          "Year": "2014",
+          "TrafficData": "6827"
+        }
+      ]
+    },
+    "Rel_ID": 2
+  },
+  {
+    "Asset1": {
+      "Type": "Structure",
+      "ID": "5340702 1 ",
+      "localisation": null,
+      "Inspections": [
+        {
+          "Year": "2020-04-14 00:00:00",
+          "ConditionGrade": 2.4
+        },
+        {
+          "Year": "2014-07-14 00:00:00",
+          "ConditionGrade": 2.4
+        },
+        {
+          "Year": "2011-09-29 00:00:00",
+          "ConditionGrade": 2.4
+        },
+        {
+          "Year": "2001-01-26 00:00:00",
+          "ConditionGrade": 1.0
+        },
+        {
+          "Year": "2005-04-18 00:00:00",
+          "ConditionGrade": 2.0
+        },
+        {
+          "Year": "2009-01-22 00:00:00",
+          "ConditionGrade": 2.3
+        },
+        {
+          "Year": "1998-05-11 00:00:00",
+          "ConditionGrade": 2.4
+        },
+        {
+          "Year": "1995-02-22 00:00:00",
+          "ConditionGrade": 0.0
+        },
+        {
+          "Year": "2017-08-08 00:00:00",
+          "ConditionGrade": 2.5
+        },
+        {
+          "Year": "1996-10-02 00:00:00",
+          "ConditionGrade": 2.4
+        }
+      ]
+    },
+    "Asset2": {
+      "Type": "CountingPoint",
+      "ID": "S8a2d544c77138127017729595e82665f",
+      "localisation": null,
+      "TrafficCountings": [
+        {
+          "Year": "2015",
+          "TrafficData": "6508"
+        },
+        {
+          "Year": "2000",
+          "TrafficData": "4600"
+        },
+        {
+          "Year": "2005",
+          "TrafficData": "4766"
+        },
+        {
+          "Year": "2010",
+          "TrafficData": "5739"
+        }
+      ]
+    },
+    "Rel_ID": 5
+  }
+ ]
+
+  

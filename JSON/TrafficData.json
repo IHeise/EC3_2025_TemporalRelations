@@ -1,0 +1,2096 @@
+﻿[
+  {
+    "CP": {
+      "identity": 4662,
+      "labels": [
+        "Otzst"
+      ],
+      "properties": {
+        "bst": "8441",
+        "nnkLfd": "66",
+        "vnkLfd": "122",
+        "nummer": "53404113",
+        "vtkNummer": "5440",
+        "Otzst_ID": "S8a2d544c771381270177295a0b846668",
+        "vzusatz": "O",
+        "ntkNummer": "5340",
+        "objektnr": "Hirschfeld",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "vst": "8441",
+        "nameAnfang": "AS Reichenbach (9)",
+        "hasSekObj": "12",
+        "bemerkung": "Swarco",
+        "ergnr": "47",
+        "objektId": "D04DA3C992114E53AF7062F4186E8720",
+        "nameEnde": "AS Zwickau-West (10)",
+        "stand": "2021-01-22T10:08:25",
+        "bearbeiter": "RUDOLFSA",
+        "nzusatz": "O",
+        "beginn": "2012-01-01",
+        "abschnittId": "8a2d544c6ea39418016efecd1a385e63"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    },
+    "TD": {
+      "identity": 94040,
+      "labels": [
+        "Otvstaerke"
+      ],
+      "properties": {
+        "dtvGv": "9184",
+        "dtvP": "28097",
+        "dtvWKfz": "39118",
+        "dtvKfz": "38089",
+        "dtvL": "3222",
+        "dtvWSv": "7838",
+        "dtvK": "109",
+        "tk25": "5340",
+        "svKfz": "16.0",
+        "objektId": "a3b86923fbeb41e7b250521118867c01",
+        "stand": "2021-01-22T10:13:26",
+        "dtvSv": "6091",
+        "Otvstaerke_ID": "S8a2d544c771381270177295ead6d6904",
+        "dtvsKfz": "37381",
+        "dtvsSv": "1253",
+        "dtvLm": "1328",
+        "jahr": "2010",
+        "gvKfz": "24.1",
+        "dtvB": "130",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "hasSekObj": "0",
+        "pvKfz": "75.7",
+        "ADatum": "2011-01-21",
+        "quartal": "0",
+        "dtvPv": "28839",
+        "bearbeiter": "SASCHA",
+        "dtvLo": "1356"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94040"
+    },
+    "r": {
+      "identity": 296561,
+      "start": 94040,
+      "end": 4662,
+      "type": "parent",
+      "properties": {
+
+      },
+      "elementId": "5:156ebb61-08d8-4b37-a820-18463057b14c:296561",
+      "startNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94040",
+      "endNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    }
+  },
+  {
+    "CP": {
+      "identity": 4662,
+      "labels": [
+        "Otzst"
+      ],
+      "properties": {
+        "bst": "8441",
+        "nnkLfd": "66",
+        "vnkLfd": "122",
+        "nummer": "53404113",
+        "vtkNummer": "5440",
+        "Otzst_ID": "S8a2d544c771381270177295a0b846668",
+        "vzusatz": "O",
+        "ntkNummer": "5340",
+        "objektnr": "Hirschfeld",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "vst": "8441",
+        "nameAnfang": "AS Reichenbach (9)",
+        "hasSekObj": "12",
+        "bemerkung": "Swarco",
+        "ergnr": "47",
+        "objektId": "D04DA3C992114E53AF7062F4186E8720",
+        "nameEnde": "AS Zwickau-West (10)",
+        "stand": "2021-01-22T10:08:25",
+        "bearbeiter": "RUDOLFSA",
+        "nzusatz": "O",
+        "beginn": "2012-01-01",
+        "abschnittId": "8a2d544c6ea39418016efecd1a385e63"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    },
+    "TD": {
+      "identity": 94084,
+      "labels": [
+        "Otvstaerke"
+      ],
+      "properties": {
+        "dtvGv": "12752",
+        "dtvP": "28808",
+        "dtvWKfz": "44151",
+        "dtvKfz": "43019",
+        "dtvL": "4458",
+        "dtvWSv": "10995",
+        "dtvK": "240",
+        "tk25": "5340",
+        "svKfz": "19.6",
+        "objektId": "d2725152dc6840a9aea294ab58ddc017",
+        "stand": "2021-01-22T10:13:26",
+        "dtvSv": "8431",
+        "Otvstaerke_ID": "S8a2d544c771381270177295eae456930",
+        "dtvsKfz": "42130",
+        "dtvsSv": "1667",
+        "dtvLm": "1410",
+        "jahr": "2019",
+        "gvKfz": "29.6",
+        "dtvB": "139",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "hasSekObj": "0",
+        "pvKfz": "69.1",
+        "ADatum": "2020-02-14",
+        "quartal": "0",
+        "dtvPv": "29707",
+        "bearbeiter": "FLEISCHER",
+        "dtvLo": "1558"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94084"
+    },
+    "r": {
+      "identity": 296784,
+      "start": 94084,
+      "end": 4662,
+      "type": "parent",
+      "properties": {
+
+      },
+      "elementId": "5:156ebb61-08d8-4b37-a820-18463057b14c:296784",
+      "startNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94084",
+      "endNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    }
+  },
+  {
+    "CP": {
+      "identity": 4662,
+      "labels": [
+        "Otzst"
+      ],
+      "properties": {
+        "bst": "8441",
+        "nnkLfd": "66",
+        "vnkLfd": "122",
+        "nummer": "53404113",
+        "vtkNummer": "5440",
+        "Otzst_ID": "S8a2d544c771381270177295a0b846668",
+        "vzusatz": "O",
+        "ntkNummer": "5340",
+        "objektnr": "Hirschfeld",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "vst": "8441",
+        "nameAnfang": "AS Reichenbach (9)",
+        "hasSekObj": "12",
+        "bemerkung": "Swarco",
+        "ergnr": "47",
+        "objektId": "D04DA3C992114E53AF7062F4186E8720",
+        "nameEnde": "AS Zwickau-West (10)",
+        "stand": "2021-01-22T10:08:25",
+        "bearbeiter": "RUDOLFSA",
+        "nzusatz": "O",
+        "beginn": "2012-01-01",
+        "abschnittId": "8a2d544c6ea39418016efecd1a385e63"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    },
+    "TD": {
+      "identity": 94081,
+      "labels": [
+        "Otvstaerke"
+      ],
+      "properties": {
+        "dtvGv": "9968",
+        "dtvP": "27638",
+        "dtvWKfz": "39946",
+        "dtvKfz": "38920",
+        "dtvL": "3591",
+        "dtvWSv": "8473",
+        "dtvK": "289",
+        "tk25": "5340",
+        "svKfz": "16.8",
+        "objektId": "6b9ac3e591dd48d4a95344a87b47e603",
+        "stand": "2021-01-22T10:13:26",
+        "dtvSv": "6520",
+        "Otvstaerke_ID": "S8a2d544c771381270177295eae33692d",
+        "dtvsKfz": "38562",
+        "dtvsSv": "1361",
+        "dtvLm": "1266",
+        "jahr": "2013",
+        "gvKfz": "25.6",
+        "dtvB": "143",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "hasSekObj": "0",
+        "pvKfz": "73.3",
+        "ADatum": "2014-01-23",
+        "quartal": "0",
+        "dtvPv": "28529",
+        "bearbeiter": "REGLER",
+        "dtvLo": "1332"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94081"
+    },
+    "r": {
+      "identity": 296769,
+      "start": 94081,
+      "end": 4662,
+      "type": "parent",
+      "properties": {
+
+      },
+      "elementId": "5:156ebb61-08d8-4b37-a820-18463057b14c:296769",
+      "startNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94081",
+      "endNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    }
+  },
+  {
+    "CP": {
+      "identity": 4662,
+      "labels": [
+        "Otzst"
+      ],
+      "properties": {
+        "bst": "8441",
+        "nnkLfd": "66",
+        "vnkLfd": "122",
+        "nummer": "53404113",
+        "vtkNummer": "5440",
+        "Otzst_ID": "S8a2d544c771381270177295a0b846668",
+        "vzusatz": "O",
+        "ntkNummer": "5340",
+        "objektnr": "Hirschfeld",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "vst": "8441",
+        "nameAnfang": "AS Reichenbach (9)",
+        "hasSekObj": "12",
+        "bemerkung": "Swarco",
+        "ergnr": "47",
+        "objektId": "D04DA3C992114E53AF7062F4186E8720",
+        "nameEnde": "AS Zwickau-West (10)",
+        "stand": "2021-01-22T10:08:25",
+        "bearbeiter": "RUDOLFSA",
+        "nzusatz": "O",
+        "beginn": "2012-01-01",
+        "abschnittId": "8a2d544c6ea39418016efecd1a385e63"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    },
+    "TD": {
+      "identity": 94079,
+      "labels": [
+        "Otvstaerke"
+      ],
+      "properties": {
+        "dtvGv": "9155",
+        "dtvP": "28233",
+        "dtvWKfz": "39338",
+        "dtvKfz": "38257",
+        "dtvL": "3032",
+        "dtvWSv": "8135",
+        "dtvK": "109",
+        "tk25": "5340",
+        "svKfz": "16.4",
+        "objektId": "3665b4c3582948e6b434ba2ec60adfc1",
+        "stand": "2021-01-22T10:13:26",
+        "dtvSv": "6264",
+        "Otvstaerke_ID": "S8a2d544c771381270177295eae2a692b",
+        "dtvsKfz": "38195",
+        "dtvsSv": "1401",
+        "dtvLm": "1430",
+        "jahr": "2008",
+        "gvKfz": "23.9",
+        "dtvB": "141",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "hasSekObj": "0",
+        "pvKfz": "75.9",
+        "ADatum": "2008-12-31",
+        "quartal": "0",
+        "dtvPv": "29028",
+        "bearbeiter": "SASCHA",
+        "dtvLo": "1324"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94079"
+    },
+    "r": {
+      "identity": 296759,
+      "start": 94079,
+      "end": 4662,
+      "type": "parent",
+      "properties": {
+
+      },
+      "elementId": "5:156ebb61-08d8-4b37-a820-18463057b14c:296759",
+      "startNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94079",
+      "endNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    }
+  },
+  {
+    "CP": {
+      "identity": 4662,
+      "labels": [
+        "Otzst"
+      ],
+      "properties": {
+        "bst": "8441",
+        "nnkLfd": "66",
+        "vnkLfd": "122",
+        "nummer": "53404113",
+        "vtkNummer": "5440",
+        "Otzst_ID": "S8a2d544c771381270177295a0b846668",
+        "vzusatz": "O",
+        "ntkNummer": "5340",
+        "objektnr": "Hirschfeld",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "vst": "8441",
+        "nameAnfang": "AS Reichenbach (9)",
+        "hasSekObj": "12",
+        "bemerkung": "Swarco",
+        "ergnr": "47",
+        "objektId": "D04DA3C992114E53AF7062F4186E8720",
+        "nameEnde": "AS Zwickau-West (10)",
+        "stand": "2021-01-22T10:08:25",
+        "bearbeiter": "RUDOLFSA",
+        "nzusatz": "O",
+        "beginn": "2012-01-01",
+        "abschnittId": "8a2d544c6ea39418016efecd1a385e63"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    },
+    "TD": {
+      "identity": 94076,
+      "labels": [
+        "Otvstaerke"
+      ],
+      "properties": {
+        "dtvGv": "9794",
+        "dtvP": "27483",
+        "dtvWKfz": "39669",
+        "dtvKfz": "38576",
+        "dtvL": "3530",
+        "dtvWSv": "8299",
+        "dtvK": "283",
+        "tk25": "5340",
+        "svKfz": "16.6",
+        "objektId": "139b031b9200431a9220013a784e87e9",
+        "stand": "2021-01-22T10:13:26",
+        "dtvSv": "6404",
+        "Otvstaerke_ID": "S8a2d544c771381270177295eae1c6928",
+        "dtvsKfz": "38041",
+        "dtvsSv": "1320",
+        "dtvLm": "1272",
+        "jahr": "2012",
+        "gvKfz": "25.4",
+        "dtvB": "139",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "hasSekObj": "0",
+        "pvKfz": "73.5",
+        "ADatum": "2013-02-12",
+        "quartal": "0",
+        "dtvPv": "28364",
+        "bearbeiter": "Regler",
+        "dtvLo": "1360"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94076"
+    },
+    "r": {
+      "identity": 296744,
+      "start": 94076,
+      "end": 4662,
+      "type": "parent",
+      "properties": {
+
+      },
+      "elementId": "5:156ebb61-08d8-4b37-a820-18463057b14c:296744",
+      "startNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94076",
+      "endNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    }
+  },
+  {
+    "CP": {
+      "identity": 4662,
+      "labels": [
+        "Otzst"
+      ],
+      "properties": {
+        "bst": "8441",
+        "nnkLfd": "66",
+        "vnkLfd": "122",
+        "nummer": "53404113",
+        "vtkNummer": "5440",
+        "Otzst_ID": "S8a2d544c771381270177295a0b846668",
+        "vzusatz": "O",
+        "ntkNummer": "5340",
+        "objektnr": "Hirschfeld",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "vst": "8441",
+        "nameAnfang": "AS Reichenbach (9)",
+        "hasSekObj": "12",
+        "bemerkung": "Swarco",
+        "ergnr": "47",
+        "objektId": "D04DA3C992114E53AF7062F4186E8720",
+        "nameEnde": "AS Zwickau-West (10)",
+        "stand": "2021-01-22T10:08:25",
+        "bearbeiter": "RUDOLFSA",
+        "nzusatz": "O",
+        "beginn": "2012-01-01",
+        "abschnittId": "8a2d544c6ea39418016efecd1a385e63"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    },
+    "TD": {
+      "identity": 94075,
+      "labels": [
+        "Otvstaerke"
+      ],
+      "properties": {
+        "dtvGv": "8242",
+        "dtvP": "30011",
+        "dtvWKfz": "39555",
+        "dtvKfz": "39067",
+        "dtvL": "2704",
+        "dtvWSv": "7356",
+        "dtvK": "150",
+        "tk25": "5340",
+        "vbstand": "2004-05-05T00:00:00",
+        "svKfz": "14.6",
+        "objektId": "B31720A8E10946769F506C3C5B7DC8DA",
+        "stand": "2021-01-22T10:13:26",
+        "dtvSv": "5721",
+        "Otvstaerke_ID": "S8a2d544c771381270177295eae166927",
+        "dtvsKfz": "40821",
+        "vbelastung": "0",
+        "dtvsSv": "1623",
+        "dtvLm": "1465",
+        "jahr": "2003",
+        "gvKfz": "21.1",
+        "dtvB": "182",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "hasSekObj": "0",
+        "pvKfz": "78.7",
+        "ADatum": "2004-03-26",
+        "quartal": "0",
+        "dtvPv": "30764",
+        "bearbeiter": "SASCHA",
+        "dtvLo": "1331"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94075"
+    },
+    "r": {
+      "identity": 296739,
+      "start": 94075,
+      "end": 4662,
+      "type": "parent",
+      "properties": {
+
+      },
+      "elementId": "5:156ebb61-08d8-4b37-a820-18463057b14c:296739",
+      "startNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94075",
+      "endNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    }
+  },
+  {
+    "CP": {
+      "identity": 4662,
+      "labels": [
+        "Otzst"
+      ],
+      "properties": {
+        "bst": "8441",
+        "nnkLfd": "66",
+        "vnkLfd": "122",
+        "nummer": "53404113",
+        "vtkNummer": "5440",
+        "Otzst_ID": "S8a2d544c771381270177295a0b846668",
+        "vzusatz": "O",
+        "ntkNummer": "5340",
+        "objektnr": "Hirschfeld",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "vst": "8441",
+        "nameAnfang": "AS Reichenbach (9)",
+        "hasSekObj": "12",
+        "bemerkung": "Swarco",
+        "ergnr": "47",
+        "objektId": "D04DA3C992114E53AF7062F4186E8720",
+        "nameEnde": "AS Zwickau-West (10)",
+        "stand": "2021-01-22T10:08:25",
+        "bearbeiter": "RUDOLFSA",
+        "nzusatz": "O",
+        "beginn": "2012-01-01",
+        "abschnittId": "8a2d544c6ea39418016efecd1a385e63"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    },
+    "TD": {
+      "identity": 94071,
+      "labels": [
+        "Otvstaerke"
+      ],
+      "properties": {
+        "dtvGv": "8520",
+        "dtvP": "29850",
+        "dtvWKfz": "39965",
+        "dtvKfz": "39284",
+        "dtvL": "2753",
+        "dtvWSv": "7512",
+        "dtvK": "144",
+        "tk25": "5340",
+        "vbstand": "2005-08-23T00:00:00",
+        "svKfz": "15.1",
+        "objektId": "A875D1DDFCC442F0B7DAD579B51D3E42",
+        "stand": "2021-01-22T10:13:26",
+        "dtvSv": "5942",
+        "Otvstaerke_ID": "S8a2d544c771381270177295eae046923",
+        "dtvsKfz": "39759",
+        "vbelastung": "0",
+        "dtvsSv": "1631",
+        "dtvLm": "1506",
+        "jahr": "2004",
+        "gvKfz": "21.7",
+        "dtvB": "174",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "hasSekObj": "0",
+        "pvKfz": "78.2",
+        "ADatum": "2005-05-17",
+        "quartal": "0",
+        "dtvPv": "30704",
+        "bearbeiter": "SASCHA",
+        "dtvLo": "1348"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94071"
+    },
+    "r": {
+      "identity": 296718,
+      "start": 94071,
+      "end": 4662,
+      "type": "parent",
+      "properties": {
+
+      },
+      "elementId": "5:156ebb61-08d8-4b37-a820-18463057b14c:296718",
+      "startNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94071",
+      "endNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    }
+  },
+  {
+    "CP": {
+      "identity": 4662,
+      "labels": [
+        "Otzst"
+      ],
+      "properties": {
+        "bst": "8441",
+        "nnkLfd": "66",
+        "vnkLfd": "122",
+        "nummer": "53404113",
+        "vtkNummer": "5440",
+        "Otzst_ID": "S8a2d544c771381270177295a0b846668",
+        "vzusatz": "O",
+        "ntkNummer": "5340",
+        "objektnr": "Hirschfeld",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "vst": "8441",
+        "nameAnfang": "AS Reichenbach (9)",
+        "hasSekObj": "12",
+        "bemerkung": "Swarco",
+        "ergnr": "47",
+        "objektId": "D04DA3C992114E53AF7062F4186E8720",
+        "nameEnde": "AS Zwickau-West (10)",
+        "stand": "2021-01-22T10:08:25",
+        "bearbeiter": "RUDOLFSA",
+        "nzusatz": "O",
+        "beginn": "2012-01-01",
+        "abschnittId": "8a2d544c6ea39418016efecd1a385e63"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    },
+    "TD": {
+      "identity": 94069,
+      "labels": [
+        "Otvstaerke"
+      ],
+      "properties": {
+        "dtvGv": "10010",
+        "dtvP": "28118",
+        "dtvWKfz": "40499",
+        "dtvKfz": "39237",
+        "dtvL": "3652",
+        "dtvWSv": "8435",
+        "dtvK": "164",
+        "tk25": "5340",
+        "svKfz": "16.5",
+        "objektId": "4d943837efb94f38ac13d9fc25d85813",
+        "stand": "2021-01-22T10:13:26",
+        "dtvSv": "6474",
+        "Otvstaerke_ID": "S8a2d544c771381270177295eadfa6921",
+        "dtvsKfz": "38377",
+        "dtvsSv": "1287",
+        "dtvLm": "1342",
+        "jahr": "2011",
+        "gvKfz": "25.5",
+        "dtvB": "115",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "hasSekObj": "0",
+        "pvKfz": "73.5",
+        "ADatum": "2012-01-26",
+        "quartal": "0",
+        "dtvPv": "28848",
+        "bearbeiter": "SASCHA",
+        "dtvLo": "1407"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94069"
+    },
+    "r": {
+      "identity": 296707,
+      "start": 94069,
+      "end": 4662,
+      "type": "parent",
+      "properties": {
+
+      },
+      "elementId": "5:156ebb61-08d8-4b37-a820-18463057b14c:296707",
+      "startNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94069",
+      "endNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    }
+  },
+  {
+    "CP": {
+      "identity": 4662,
+      "labels": [
+        "Otzst"
+      ],
+      "properties": {
+        "bst": "8441",
+        "nnkLfd": "66",
+        "vnkLfd": "122",
+        "nummer": "53404113",
+        "vtkNummer": "5440",
+        "Otzst_ID": "S8a2d544c771381270177295a0b846668",
+        "vzusatz": "O",
+        "ntkNummer": "5340",
+        "objektnr": "Hirschfeld",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "vst": "8441",
+        "nameAnfang": "AS Reichenbach (9)",
+        "hasSekObj": "12",
+        "bemerkung": "Swarco",
+        "ergnr": "47",
+        "objektId": "D04DA3C992114E53AF7062F4186E8720",
+        "nameEnde": "AS Zwickau-West (10)",
+        "stand": "2021-01-22T10:08:25",
+        "bearbeiter": "RUDOLFSA",
+        "nzusatz": "O",
+        "beginn": "2012-01-01",
+        "abschnittId": "8a2d544c6ea39418016efecd1a385e63"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    },
+    "TD": {
+      "identity": 94068,
+      "labels": [
+        "Otvstaerke"
+      ],
+      "properties": {
+        "dtvGv": "12517",
+        "dtvP": "28887",
+        "dtvWKfz": "44079",
+        "dtvKfz": "42860",
+        "dtvL": "4362",
+        "dtvWSv": "10830",
+        "dtvK": "263",
+        "tk25": "5340",
+        "svKfz": "19.4",
+        "objektId": "fb3e94a750eb47e9a4d58808c3440f22",
+        "stand": "2021-01-22T10:13:26",
+        "dtvSv": "8294",
+        "Otvstaerke_ID": "S8a2d544c771381270177295eadf66920",
+        "dtvsKfz": "41244",
+        "dtvsSv": "1571",
+        "dtvLm": "1379",
+        "jahr": "2018",
+        "gvKfz": "29.2",
+        "dtvB": "139",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "hasSekObj": "0",
+        "pvKfz": "69.5",
+        "ADatum": "2019-02-13",
+        "quartal": "0",
+        "dtvPv": "29800",
+        "bearbeiter": "FLEISCHER",
+        "dtvLo": "1553"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94068"
+    },
+    "r": {
+      "identity": 296702,
+      "start": 94068,
+      "end": 4662,
+      "type": "parent",
+      "properties": {
+
+      },
+      "elementId": "5:156ebb61-08d8-4b37-a820-18463057b14c:296702",
+      "startNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94068",
+      "endNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    }
+  },
+  {
+    "CP": {
+      "identity": 4662,
+      "labels": [
+        "Otzst"
+      ],
+      "properties": {
+        "bst": "8441",
+        "nnkLfd": "66",
+        "vnkLfd": "122",
+        "nummer": "53404113",
+        "vtkNummer": "5440",
+        "Otzst_ID": "S8a2d544c771381270177295a0b846668",
+        "vzusatz": "O",
+        "ntkNummer": "5340",
+        "objektnr": "Hirschfeld",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "vst": "8441",
+        "nameAnfang": "AS Reichenbach (9)",
+        "hasSekObj": "12",
+        "bemerkung": "Swarco",
+        "ergnr": "47",
+        "objektId": "D04DA3C992114E53AF7062F4186E8720",
+        "nameEnde": "AS Zwickau-West (10)",
+        "stand": "2021-01-22T10:08:25",
+        "bearbeiter": "RUDOLFSA",
+        "nzusatz": "O",
+        "beginn": "2012-01-01",
+        "abschnittId": "8a2d544c6ea39418016efecd1a385e63"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    },
+    "TD": {
+      "identity": 94064,
+      "labels": [
+        "Otvstaerke"
+      ],
+      "properties": {
+        "dtvGv": "8319",
+        "dtvP": "30419",
+        "dtvWKfz": "40430",
+        "dtvKfz": "39619",
+        "dtvL": "2845",
+        "dtvWSv": "7350",
+        "dtvK": "173",
+        "tk25": "5340",
+        "svKfz": "14.3",
+        "objektId": "88C5EFABCA604C4C8643C2E5AB0D3210",
+        "stand": "2021-01-22T10:13:26",
+        "dtvSv": "5667",
+        "Otvstaerke_ID": "S8a2d544c771381270177295eade3691c",
+        "dtvsKfz": "39941",
+        "dtvsSv": "1522",
+        "dtvLm": "1465",
+        "jahr": "2001",
+        "gvKfz": "21.0",
+        "dtvB": "193",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "hasSekObj": "0",
+        "pvKfz": "78.8",
+        "ADatum": "2003-04-25",
+        "quartal": "0",
+        "dtvPv": "31230",
+        "bearbeiter": "SASCHA",
+        "dtvLo": "1467"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94064"
+    },
+    "r": {
+      "identity": 296682,
+      "start": 94064,
+      "end": 4662,
+      "type": "parent",
+      "properties": {
+
+      },
+      "elementId": "5:156ebb61-08d8-4b37-a820-18463057b14c:296682",
+      "startNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94064",
+      "endNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    }
+  },
+  {
+    "CP": {
+      "identity": 4662,
+      "labels": [
+        "Otzst"
+      ],
+      "properties": {
+        "bst": "8441",
+        "nnkLfd": "66",
+        "vnkLfd": "122",
+        "nummer": "53404113",
+        "vtkNummer": "5440",
+        "Otzst_ID": "S8a2d544c771381270177295a0b846668",
+        "vzusatz": "O",
+        "ntkNummer": "5340",
+        "objektnr": "Hirschfeld",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "vst": "8441",
+        "nameAnfang": "AS Reichenbach (9)",
+        "hasSekObj": "12",
+        "bemerkung": "Swarco",
+        "ergnr": "47",
+        "objektId": "D04DA3C992114E53AF7062F4186E8720",
+        "nameEnde": "AS Zwickau-West (10)",
+        "stand": "2021-01-22T10:08:25",
+        "bearbeiter": "RUDOLFSA",
+        "nzusatz": "O",
+        "beginn": "2012-01-01",
+        "abschnittId": "8a2d544c6ea39418016efecd1a385e63"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    },
+    "TD": {
+      "identity": 94062,
+      "labels": [
+        "Otvstaerke"
+      ],
+      "properties": {
+        "pt": "13.9",
+        "dtvP": "28461",
+        "dtvWKfz": "35631",
+        "dtvKfz": "36401",
+        "dtvL": "2472",
+        "dtvK": "148",
+        "dtvuPv": "30763",
+        "dtvsPv": "33572",
+        "lodtvkfz": "4.0",
+        "msv": "2268",
+        "fer": "1.10",
+        "svKfz": "15.0",
+        "ldtvkfz": "7.0",
+        "dtvuGv": "8300",
+        "dlinientyp": "G",
+        "mn": "584",
+        "dtvsGv": "2444",
+        "dtvuKfz": "39063",
+        "mt": "1982",
+        "dtvWPv": "26794",
+        "dtvuSv": "5751",
+        "dtvsSv": "1349",
+        "bfr": "1.37",
+        "dtvLm": "3742",
+        "jahr": "2000",
+        "pdtvkfz": "78.0",
+        "dtvB": "183",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "dtvPv": "28792",
+        "dtvWGv": "8837",
+        "dtvLo": "1395",
+        "bso": "1.12",
+        "dtvGv": "7609",
+        "dtvWSv": "6297",
+        "tk25": "5340",
+        "bdtvkfz": "1.0",
+        "objektId": "12361E89410445038C8EF93195C5D0B8",
+        "stand": "2021-01-22T10:13:26",
+        "dtvSv": "5320",
+        "lmdtvkfz": "10.0",
+        "Otvstaerke_ID": "S8a2d544c771381270177295eadd7691a",
+        "dtvsKfz": "36016",
+        "msvS": "3844",
+        "gvKfz": "21.0",
+        "msvW": "3775",
+        "msvU": "3501",
+        "hasSekObj": "0",
+        "pvKfz": "79.0",
+        "ADatum": "2002-05-15",
+        "quartal": "0",
+        "kdtvkfz": "0.0",
+        "pn": "27.8",
+        "bearbeiter": "SASCHA"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94062"
+    },
+    "r": {
+      "identity": 296672,
+      "start": 94062,
+      "end": 4662,
+      "type": "parent",
+      "properties": {
+
+      },
+      "elementId": "5:156ebb61-08d8-4b37-a820-18463057b14c:296672",
+      "startNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94062",
+      "endNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    }
+  },
+  {
+    "CP": {
+      "identity": 4662,
+      "labels": [
+        "Otzst"
+      ],
+      "properties": {
+        "bst": "8441",
+        "nnkLfd": "66",
+        "vnkLfd": "122",
+        "nummer": "53404113",
+        "vtkNummer": "5440",
+        "Otzst_ID": "S8a2d544c771381270177295a0b846668",
+        "vzusatz": "O",
+        "ntkNummer": "5340",
+        "objektnr": "Hirschfeld",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "vst": "8441",
+        "nameAnfang": "AS Reichenbach (9)",
+        "hasSekObj": "12",
+        "bemerkung": "Swarco",
+        "ergnr": "47",
+        "objektId": "D04DA3C992114E53AF7062F4186E8720",
+        "nameEnde": "AS Zwickau-West (10)",
+        "stand": "2021-01-22T10:08:25",
+        "bearbeiter": "RUDOLFSA",
+        "nzusatz": "O",
+        "beginn": "2012-01-01",
+        "abschnittId": "8a2d544c6ea39418016efecd1a385e63"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    },
+    "TD": {
+      "identity": 94055,
+      "labels": [
+        "Otvstaerke"
+      ],
+      "properties": {
+        "dtvGv": "9530",
+        "dtvP": "28782",
+        "dtvWKfz": "40359",
+        "dtvKfz": "39257",
+        "dtvL": "3158",
+        "dtvWSv": "8424",
+        "dtvK": "121",
+        "tk25": "5340",
+        "vbstand": "2008-05-16T00:00:00",
+        "svKfz": "16.6",
+        "objektId": "FE96DD8A53DE4EF5AC86A8926815D4D7",
+        "stand": "2021-01-22T10:13:26",
+        "dtvSv": "6527",
+        "Otvstaerke_ID": "S8a2d544c771381270177295eadb46913",
+        "dtvsKfz": "38627",
+        "vbelastung": "0",
+        "dtvsSv": "1570",
+        "dtvLm": "1536",
+        "jahr": "2007",
+        "gvKfz": "24.3",
+        "dtvB": "154",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "hasSekObj": "0",
+        "pvKfz": "75.5",
+        "ADatum": "2008-04-28",
+        "quartal": "0",
+        "dtvPv": "29647",
+        "bearbeiter": "SASCHA",
+        "dtvLo": "1410"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94055"
+    },
+    "r": {
+      "identity": 296637,
+      "start": 94055,
+      "end": 4662,
+      "type": "parent",
+      "properties": {
+
+      },
+      "elementId": "5:156ebb61-08d8-4b37-a820-18463057b14c:296637",
+      "startNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94055",
+      "endNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    }
+  },
+  {
+    "CP": {
+      "identity": 4662,
+      "labels": [
+        "Otzst"
+      ],
+      "properties": {
+        "bst": "8441",
+        "nnkLfd": "66",
+        "vnkLfd": "122",
+        "nummer": "53404113",
+        "vtkNummer": "5440",
+        "Otzst_ID": "S8a2d544c771381270177295a0b846668",
+        "vzusatz": "O",
+        "ntkNummer": "5340",
+        "objektnr": "Hirschfeld",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "vst": "8441",
+        "nameAnfang": "AS Reichenbach (9)",
+        "hasSekObj": "12",
+        "bemerkung": "Swarco",
+        "ergnr": "47",
+        "objektId": "D04DA3C992114E53AF7062F4186E8720",
+        "nameEnde": "AS Zwickau-West (10)",
+        "stand": "2021-01-22T10:08:25",
+        "bearbeiter": "RUDOLFSA",
+        "nzusatz": "O",
+        "beginn": "2012-01-01",
+        "abschnittId": "8a2d544c6ea39418016efecd1a385e63"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    },
+    "TD": {
+      "identity": 94052,
+      "labels": [
+        "Otvstaerke"
+      ],
+      "properties": {
+        "dtvGv": "8202",
+        "dtvP": "29154",
+        "dtvWKfz": "39035",
+        "dtvKfz": "38277",
+        "dtvL": "2856",
+        "dtvWSv": "7032",
+        "dtvK": "133",
+        "tk25": "5340",
+        "svKfz": "14.4",
+        "objektId": "3E4C1D7E4EF64064950432C0DCEE28F5",
+        "stand": "2021-01-22T10:13:26",
+        "dtvSv": "5513",
+        "Otvstaerke_ID": "S8a2d544c771381270177295eada46910",
+        "dtvsKfz": "38986",
+        "dtvsSv": "1566",
+        "dtvLm": "1406",
+        "jahr": "2005",
+        "gvKfz": "21.4",
+        "dtvB": "167",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "hasSekObj": "0",
+        "pvKfz": "78.4",
+        "ADatum": "2006-06-06",
+        "quartal": "0",
+        "dtvPv": "30008",
+        "bearbeiter": "SASCHA",
+        "dtvLo": "1267"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94052"
+    },
+    "r": {
+      "identity": 296621,
+      "start": 94052,
+      "end": 4662,
+      "type": "parent",
+      "properties": {
+
+      },
+      "elementId": "5:156ebb61-08d8-4b37-a820-18463057b14c:296621",
+      "startNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94052",
+      "endNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    }
+  },
+  {
+    "CP": {
+      "identity": 4662,
+      "labels": [
+        "Otzst"
+      ],
+      "properties": {
+        "bst": "8441",
+        "nnkLfd": "66",
+        "vnkLfd": "122",
+        "nummer": "53404113",
+        "vtkNummer": "5440",
+        "Otzst_ID": "S8a2d544c771381270177295a0b846668",
+        "vzusatz": "O",
+        "ntkNummer": "5340",
+        "objektnr": "Hirschfeld",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "vst": "8441",
+        "nameAnfang": "AS Reichenbach (9)",
+        "hasSekObj": "12",
+        "bemerkung": "Swarco",
+        "ergnr": "47",
+        "objektId": "D04DA3C992114E53AF7062F4186E8720",
+        "nameEnde": "AS Zwickau-West (10)",
+        "stand": "2021-01-22T10:08:25",
+        "bearbeiter": "RUDOLFSA",
+        "nzusatz": "O",
+        "beginn": "2012-01-01",
+        "abschnittId": "8a2d544c6ea39418016efecd1a385e63"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    },
+    "TD": {
+      "identity": 93996,
+      "labels": [
+        "Otvstaerke"
+      ],
+      "properties": {
+        "dtvGv": "11485",
+        "dtvP": "29129",
+        "dtvWKfz": "43322",
+        "dtvKfz": "42027",
+        "dtvL": "4087",
+        "dtvWSv": "9813",
+        "dtvK": "267",
+        "tk25": "5340",
+        "svKfz": "17.9",
+        "objektId": "693fe44821f149d39bb991a10de7ec1c",
+        "stand": "2021-01-22T10:13:26",
+        "dtvSv": "7541",
+        "Otvstaerke_ID": "S8a2d544c771381270177295eac9f68d8",
+        "dtvsKfz": "40686",
+        "dtvsSv": "1430",
+        "dtvLm": "1360",
+        "jahr": "2016",
+        "gvKfz": "27.3",
+        "dtvB": "143",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "hasSekObj": "0",
+        "pvKfz": "71.5",
+        "ADatum": "2017-01-25",
+        "quartal": "0",
+        "dtvPv": "30041",
+        "bearbeiter": "SASCHA",
+        "dtvLo": "1435"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:93996"
+    },
+    "r": {
+      "identity": 296341,
+      "start": 93996,
+      "end": 4662,
+      "type": "parent",
+      "properties": {
+
+      },
+      "elementId": "5:156ebb61-08d8-4b37-a820-18463057b14c:296341",
+      "startNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:93996",
+      "endNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    }
+  },
+  {
+    "CP": {
+      "identity": 4662,
+      "labels": [
+        "Otzst"
+      ],
+      "properties": {
+        "bst": "8441",
+        "nnkLfd": "66",
+        "vnkLfd": "122",
+        "nummer": "53404113",
+        "vtkNummer": "5440",
+        "Otzst_ID": "S8a2d544c771381270177295a0b846668",
+        "vzusatz": "O",
+        "ntkNummer": "5340",
+        "objektnr": "Hirschfeld",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "vst": "8441",
+        "nameAnfang": "AS Reichenbach (9)",
+        "hasSekObj": "12",
+        "bemerkung": "Swarco",
+        "ergnr": "47",
+        "objektId": "D04DA3C992114E53AF7062F4186E8720",
+        "nameEnde": "AS Zwickau-West (10)",
+        "stand": "2021-01-22T10:08:25",
+        "bearbeiter": "RUDOLFSA",
+        "nzusatz": "O",
+        "beginn": "2012-01-01",
+        "abschnittId": "8a2d544c6ea39418016efecd1a385e63"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    },
+    "TD": {
+      "identity": 93998,
+      "labels": [
+        "Otvstaerke"
+      ],
+      "properties": {
+        "dtvGv": "8370",
+        "dtvP": "30472",
+        "dtvWKfz": "40289",
+        "dtvKfz": "39718",
+        "dtvL": "2843",
+        "dtvWSv": "7388",
+        "dtvK": "154",
+        "tk25": "5340",
+        "svKfz": "14.4",
+        "objektId": "D14DA8B80086490C96C614D9FC575868",
+        "stand": "2021-01-22T10:13:26",
+        "dtvSv": "5738",
+        "Otvstaerke_ID": "S8a2d544c771381270177295eacab68da",
+        "dtvsKfz": "41023",
+        "dtvsSv": "1631",
+        "dtvLm": "1497",
+        "jahr": "2002",
+        "gvKfz": "21.1",
+        "dtvB": "191",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "hasSekObj": "0",
+        "pvKfz": "78.7",
+        "ADatum": "2003-04-24",
+        "quartal": "0",
+        "dtvPv": "31264",
+        "bearbeiter": "SASCHA",
+        "dtvLo": "1391"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:93998"
+    },
+    "r": {
+      "identity": 296351,
+      "start": 93998,
+      "end": 4662,
+      "type": "parent",
+      "properties": {
+
+      },
+      "elementId": "5:156ebb61-08d8-4b37-a820-18463057b14c:296351",
+      "startNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:93998",
+      "endNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    }
+  },
+  {
+    "CP": {
+      "identity": 4662,
+      "labels": [
+        "Otzst"
+      ],
+      "properties": {
+        "bst": "8441",
+        "nnkLfd": "66",
+        "vnkLfd": "122",
+        "nummer": "53404113",
+        "vtkNummer": "5440",
+        "Otzst_ID": "S8a2d544c771381270177295a0b846668",
+        "vzusatz": "O",
+        "ntkNummer": "5340",
+        "objektnr": "Hirschfeld",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "vst": "8441",
+        "nameAnfang": "AS Reichenbach (9)",
+        "hasSekObj": "12",
+        "bemerkung": "Swarco",
+        "ergnr": "47",
+        "objektId": "D04DA3C992114E53AF7062F4186E8720",
+        "nameEnde": "AS Zwickau-West (10)",
+        "stand": "2021-01-22T10:08:25",
+        "bearbeiter": "RUDOLFSA",
+        "nzusatz": "O",
+        "beginn": "2012-01-01",
+        "abschnittId": "8a2d544c6ea39418016efecd1a385e63"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    },
+    "TD": {
+      "identity": 93999,
+      "labels": [
+        "Otvstaerke"
+      ],
+      "properties": {
+        "dtvGv": "11063",
+        "dtvP": "28927",
+        "dtvWKfz": "42462",
+        "dtvKfz": "41366",
+        "dtvL": "4069",
+        "dtvWSv": "9269",
+        "dtvK": "271",
+        "tk25": "5340",
+        "svKfz": "17.2",
+        "objektId": "f652122d498042059be64e5fb3e2a586",
+        "stand": "2021-01-22T10:13:26",
+        "dtvSv": "7134",
+        "Otvstaerke_ID": "S8a2d544c771381270177295eacb068db",
+        "dtvsKfz": "40459",
+        "dtvsSv": "1358",
+        "dtvLm": "1354",
+        "jahr": "2015",
+        "gvKfz": "26.7",
+        "dtvB": "139",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "hasSekObj": "0",
+        "pvKfz": "72.1",
+        "ADatum": "2016-01-22",
+        "quartal": "0",
+        "dtvPv": "29820",
+        "bearbeiter": "SASCHA",
+        "dtvLo": "1380"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:93999"
+    },
+    "r": {
+      "identity": 296356,
+      "start": 93999,
+      "end": 4662,
+      "type": "parent",
+      "properties": {
+
+      },
+      "elementId": "5:156ebb61-08d8-4b37-a820-18463057b14c:296356",
+      "startNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:93999",
+      "endNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    }
+  },
+  {
+    "CP": {
+      "identity": 4662,
+      "labels": [
+        "Otzst"
+      ],
+      "properties": {
+        "bst": "8441",
+        "nnkLfd": "66",
+        "vnkLfd": "122",
+        "nummer": "53404113",
+        "vtkNummer": "5440",
+        "Otzst_ID": "S8a2d544c771381270177295a0b846668",
+        "vzusatz": "O",
+        "ntkNummer": "5340",
+        "objektnr": "Hirschfeld",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "vst": "8441",
+        "nameAnfang": "AS Reichenbach (9)",
+        "hasSekObj": "12",
+        "bemerkung": "Swarco",
+        "ergnr": "47",
+        "objektId": "D04DA3C992114E53AF7062F4186E8720",
+        "nameEnde": "AS Zwickau-West (10)",
+        "stand": "2021-01-22T10:08:25",
+        "bearbeiter": "RUDOLFSA",
+        "nzusatz": "O",
+        "beginn": "2012-01-01",
+        "abschnittId": "8a2d544c6ea39418016efecd1a385e63"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    },
+    "TD": {
+      "identity": 94008,
+      "labels": [
+        "Otvstaerke"
+      ],
+      "properties": {
+        "dtvGv": "8543",
+        "dtvP": "28219",
+        "dtvWKfz": "38316",
+        "dtvKfz": "37595",
+        "dtvL": "3029",
+        "dtvWSv": "7316",
+        "dtvK": "114",
+        "tk25": "5340",
+        "svKfz": "15.0",
+        "objektId": "ff2dbe287376410fb762a53efaa3711e",
+        "stand": "2021-01-22T10:13:26",
+        "dtvSv": "5647",
+        "Otvstaerke_ID": "S8a2d544c771381270177295eacde68e4",
+        "dtvsKfz": "37822",
+        "dtvsSv": "1237",
+        "dtvLm": "1293",
+        "jahr": "2009",
+        "gvKfz": "22.7",
+        "dtvB": "134",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "hasSekObj": "0",
+        "pvKfz": "77.1",
+        "ADatum": "2010-01-19",
+        "quartal": "0",
+        "dtvPv": "28982",
+        "bearbeiter": "SASCHA",
+        "dtvLo": "1254"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94008"
+    },
+    "r": {
+      "identity": 296401,
+      "start": 94008,
+      "end": 4662,
+      "type": "parent",
+      "properties": {
+
+      },
+      "elementId": "5:156ebb61-08d8-4b37-a820-18463057b14c:296401",
+      "startNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94008",
+      "endNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    }
+  },
+  {
+    "CP": {
+      "identity": 4662,
+      "labels": [
+        "Otzst"
+      ],
+      "properties": {
+        "bst": "8441",
+        "nnkLfd": "66",
+        "vnkLfd": "122",
+        "nummer": "53404113",
+        "vtkNummer": "5440",
+        "Otzst_ID": "S8a2d544c771381270177295a0b846668",
+        "vzusatz": "O",
+        "ntkNummer": "5340",
+        "objektnr": "Hirschfeld",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "vst": "8441",
+        "nameAnfang": "AS Reichenbach (9)",
+        "hasSekObj": "12",
+        "bemerkung": "Swarco",
+        "ergnr": "47",
+        "objektId": "D04DA3C992114E53AF7062F4186E8720",
+        "nameEnde": "AS Zwickau-West (10)",
+        "stand": "2021-01-22T10:08:25",
+        "bearbeiter": "RUDOLFSA",
+        "nzusatz": "O",
+        "beginn": "2012-01-01",
+        "abschnittId": "8a2d544c6ea39418016efecd1a385e63"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    },
+    "TD": {
+      "identity": 94011,
+      "labels": [
+        "Otvstaerke"
+      ],
+      "properties": {
+        "dtvGv": "12271",
+        "dtvP": "29052",
+        "dtvWKfz": "43948",
+        "dtvKfz": "42698",
+        "dtvL": "4309",
+        "dtvWSv": "10568",
+        "dtvK": "213",
+        "tk25": "5340",
+        "svKfz": "19.0",
+        "objektId": "bbfac320afcc40a0a7681811ee5a704d",
+        "stand": "2021-01-22T10:13:26",
+        "dtvSv": "8095",
+        "Otvstaerke_ID": "S8a2d544c771381270177295eaceb68e7",
+        "dtvsKfz": "40656",
+        "dtvsSv": "1511",
+        "dtvLm": "1395",
+        "jahr": "2017",
+        "gvKfz": "28.7",
+        "dtvB": "133",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "hasSekObj": "0",
+        "pvKfz": "70.0",
+        "ADatum": "2018-05-09",
+        "quartal": "0",
+        "dtvPv": "29909",
+        "bearbeiter": "SASCHA",
+        "dtvLo": "1504"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94011"
+    },
+    "r": {
+      "identity": 296416,
+      "start": 94011,
+      "end": 4662,
+      "type": "parent",
+      "properties": {
+
+      },
+      "elementId": "5:156ebb61-08d8-4b37-a820-18463057b14c:296416",
+      "startNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94011",
+      "endNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    }
+  },
+  {
+    "CP": {
+      "identity": 4662,
+      "labels": [
+        "Otzst"
+      ],
+      "properties": {
+        "bst": "8441",
+        "nnkLfd": "66",
+        "vnkLfd": "122",
+        "nummer": "53404113",
+        "vtkNummer": "5440",
+        "Otzst_ID": "S8a2d544c771381270177295a0b846668",
+        "vzusatz": "O",
+        "ntkNummer": "5340",
+        "objektnr": "Hirschfeld",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "vst": "8441",
+        "nameAnfang": "AS Reichenbach (9)",
+        "hasSekObj": "12",
+        "bemerkung": "Swarco",
+        "ergnr": "47",
+        "objektId": "D04DA3C992114E53AF7062F4186E8720",
+        "nameEnde": "AS Zwickau-West (10)",
+        "stand": "2021-01-22T10:08:25",
+        "bearbeiter": "RUDOLFSA",
+        "nzusatz": "O",
+        "beginn": "2012-01-01",
+        "abschnittId": "8a2d544c6ea39418016efecd1a385e63"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    },
+    "TD": {
+      "identity": 94019,
+      "labels": [
+        "Otvstaerke"
+      ],
+      "properties": {
+        "dtvGv": "8630",
+        "dtvP": "27482",
+        "dtvWKfz": "37997",
+        "dtvKfz": "37021",
+        "dtvL": "2979",
+        "dtvWSv": "7463",
+        "dtvK": "100",
+        "tk25": "5340",
+        "svKfz": "15.7",
+        "objektId": "88090F78DDCA44CCBAE24471527A08F1",
+        "stand": "2021-01-22T10:13:26",
+        "dtvSv": "5805",
+        "Otvstaerke_ID": "S8a2d544c771381270177295ead0d68ef",
+        "dtvsKfz": "36445",
+        "dtvsSv": "1536",
+        "dtvLm": "1423",
+        "jahr": "2006",
+        "gvKfz": "23.3",
+        "dtvB": "154",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "hasSekObj": "0",
+        "pvKfz": "76.5",
+        "ADatum": "2007-04-26",
+        "quartal": "0",
+        "dtvPv": "28314",
+        "bearbeiter": "SASCHA",
+        "dtvLo": "1323"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94019"
+    },
+    "r": {
+      "identity": 296456,
+      "start": 94019,
+      "end": 4662,
+      "type": "parent",
+      "properties": {
+
+      },
+      "elementId": "5:156ebb61-08d8-4b37-a820-18463057b14c:296456",
+      "startNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94019",
+      "endNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    }
+  },
+  {
+    "CP": {
+      "identity": 4662,
+      "labels": [
+        "Otzst"
+      ],
+      "properties": {
+        "bst": "8441",
+        "nnkLfd": "66",
+        "vnkLfd": "122",
+        "nummer": "53404113",
+        "vtkNummer": "5440",
+        "Otzst_ID": "S8a2d544c771381270177295a0b846668",
+        "vzusatz": "O",
+        "ntkNummer": "5340",
+        "objektnr": "Hirschfeld",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "vst": "8441",
+        "nameAnfang": "AS Reichenbach (9)",
+        "hasSekObj": "12",
+        "bemerkung": "Swarco",
+        "ergnr": "47",
+        "objektId": "D04DA3C992114E53AF7062F4186E8720",
+        "nameEnde": "AS Zwickau-West (10)",
+        "stand": "2021-01-22T10:08:25",
+        "bearbeiter": "RUDOLFSA",
+        "nzusatz": "O",
+        "beginn": "2012-01-01",
+        "abschnittId": "8a2d544c6ea39418016efecd1a385e63"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    },
+    "TD": {
+      "identity": 94037,
+      "labels": [
+        "Otvstaerke"
+      ],
+      "properties": {
+        "dtvGv": "10444",
+        "dtvP": "28497",
+        "dtvWKfz": "41440",
+        "dtvKfz": "40299",
+        "dtvL": "3762",
+        "dtvWSv": "8934",
+        "dtvK": "284",
+        "tk25": "5340",
+        "svKfz": "16.9",
+        "objektId": "c51540d6b64148378f8118cb83b67e17",
+        "stand": "2021-01-22T10:13:26",
+        "dtvSv": "6827",
+        "Otvstaerke_ID": "S8a2d544c771381270177295ead5f6901",
+        "dtvsKfz": "39838",
+        "dtvsSv": "1356",
+        "dtvLm": "1305",
+        "jahr": "2014",
+        "gvKfz": "25.9",
+        "dtvB": "145",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "hasSekObj": "0",
+        "pvKfz": "73.0",
+        "ADatum": "2015-01-28",
+        "quartal": "0",
+        "dtvPv": "29407",
+        "bearbeiter": "REGLER",
+        "dtvLo": "1335"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94037"
+    },
+    "r": {
+      "identity": 296546,
+      "start": 94037,
+      "end": 4662,
+      "type": "parent",
+      "properties": {
+
+      },
+      "elementId": "5:156ebb61-08d8-4b37-a820-18463057b14c:296546",
+      "startNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94037",
+      "endNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4662"
+    }
+  },
+  {
+    "CP": {
+      "identity": 4902,
+      "labels": [
+        "Otzst"
+      ],
+      "properties": {
+        "bst": "5371",
+        "nnkLfd": "67",
+        "vnkLfd": "66",
+        "nummer": "53411001",
+        "vtkNummer": "5340",
+        "Otzst_ID": "S8a2d544c77138127017729595e82665f",
+        "vzusatz": "O",
+        "ntkNummer": "5341",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "vst": "5371",
+        "nameAnfang": "AS Zwickau-West (10)",
+        "hasSekObj": "12",
+        "objektId": "BFC0E8797C194DC2982E8563ABE6F37F",
+        "nameEnde": "AS Zwickau-Ost (11)",
+        "stand": "2021-01-22T10:07:38",
+        "bearbeiter": "SASCHA",
+        "nzusatz": "O",
+        "abschnittId": "8a2d544c7da42472017dc1c691c95429"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4902"
+    },
+    "TD": {
+      "identity": 94828,
+      "labels": [
+        "Otvstaerke"
+      ],
+      "properties": {
+        "lmd": "74.5",
+        "dtvR": "0",
+        "pt": "14.9",
+        "lme": "72.5",
+        "dtvWKfz": "39013",
+        "dtvKfz": "39130",
+        "zaehltage": "5",
+        "dtvWSv": "7934",
+        "dtvK": "147",
+        "lmn": "70.3",
+        "lodtvkfz": "2.4",
+        "rdtvkfz": "0.0",
+        "fer": "1.04",
+        "lmt": "74.1",
+        "svKfz": "16.6",
+        "md": "2352",
+        "me": "1557",
+        "bdtvkfz": "0.4",
+        "objektId": "c4b02dec1c8748bfa9f66e390ae62c6c",
+        "stand": "2021-01-22T10:13:26",
+        "lmdtvkfz": "13.9",
+        "dtvSv": "6508",
+        "Otvstaerke_ID": "S8a2d544c771381270177295eabae68d6",
+        "mn": "585",
+        "dtvuKfz": "40721",
+        "dtvsKfz": "37386",
+        "mt": "2153",
+        "dtvuSv": "7057",
+        "dtvsSv": "857",
+        "bfr": "1.39",
+        "dtvLm": "5420",
+        "jahr": "2015",
+        "dtvB": "141",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "pd": "15.2",
+        "pe": "13.6",
+        "hasSekObj": "0",
+        "ADatum": "2017-02-01",
+        "quartal": "0",
+        "kdtvkfz": "0.4",
+        "pn": "29.5",
+        "dtvLo": "947",
+        "bso": "1.04"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94828"
+    },
+    "r": {
+      "identity": 300713,
+      "start": 94828,
+      "end": 4902,
+      "type": "parent",
+      "properties": {
+
+      },
+      "elementId": "5:156ebb61-08d8-4b37-a820-18463057b14c:300713",
+      "startNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94828",
+      "endNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4902"
+    }
+  },
+  {
+    "CP": {
+      "identity": 4902,
+      "labels": [
+        "Otzst"
+      ],
+      "properties": {
+        "bst": "5371",
+        "nnkLfd": "67",
+        "vnkLfd": "66",
+        "nummer": "53411001",
+        "vtkNummer": "5340",
+        "Otzst_ID": "S8a2d544c77138127017729595e82665f",
+        "vzusatz": "O",
+        "ntkNummer": "5341",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "vst": "5371",
+        "nameAnfang": "AS Zwickau-West (10)",
+        "hasSekObj": "12",
+        "objektId": "BFC0E8797C194DC2982E8563ABE6F37F",
+        "nameEnde": "AS Zwickau-Ost (11)",
+        "stand": "2021-01-22T10:07:38",
+        "bearbeiter": "SASCHA",
+        "nzusatz": "O",
+        "abschnittId": "8a2d544c7da42472017dc1c691c95429"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4902"
+    },
+    "TD": {
+      "identity": 94827,
+      "labels": [
+        "Otvstaerke"
+      ],
+      "properties": {
+        "dtvR": "0",
+        "pt": "13.6",
+        "dtvP": "25224",
+        "dtvWKfz": "31723",
+        "dtvKfz": "31636",
+        "dtvL": "1691",
+        "dtvK": "122",
+        "dtvuPv": "24940",
+        "dtvsPv": "30417",
+        "lodtvkfz": "3.0",
+        "rdtvkfz": "0.0",
+        "msv": "1015",
+        "fer": "0.99",
+        "svKfz": "15.0",
+        "ldtvkfz": "5.0",
+        "dtvuGv": "6558",
+        "dlinientyp": "G",
+        "mn": "490",
+        "dtvsGv": "1074",
+        "dtvuKfz": "31498",
+        "mt": "1731",
+        "svMsvU": "14",
+        "dtvWPv": "24373",
+        "svMsvW": "13",
+        "dtvuSv": "5146",
+        "dtvsSv": "932",
+        "bfr": "1.59",
+        "dtvLm": "3377",
+        "jahr": "2000",
+        "pdtvkfz": "80.0",
+        "dtvB": "200",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "dtvPv": "25546",
+        "dtvWGv": "7350",
+        "dtvLo": "1023",
+        "bso": "0.99",
+        "dtvGv": "6090",
+        "pkwS": "7552",
+        "zaehltage": "8",
+        "dtvWSv": "5453",
+        "fr": "1.57",
+        "tk25": "5341",
+        "pkwU": "4568",
+        "pkwW": "4443",
+        "bdtvkfz": "0.0",
+        "objektId": "3C2D146FCA604A5EAF0B8AB60D2F868D",
+        "stand": "2021-01-22T10:13:26",
+        "pkwF": "8292",
+        "dtvSv": "4600",
+        "lmdtvkfz": "11.0",
+        "Otvstaerke_ID": "S8a2d544c771381270177295eaba968d5",
+        "f": "0.75",
+        "dtvsKfz": "31491",
+        "msvS": "3262",
+        "gvKfz": "19.0",
+        "msvW": "3201",
+        "msvU": "2763",
+        "hasSekObj": "0",
+        "pvKfz": "81.0",
+        "ADatum": "2002-05-07",
+        "quartal": "0",
+        "kdtvkfz": "0.0",
+        "pn": "27.8",
+        "bearbeiter": "SASCHA"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94827"
+    },
+    "r": {
+      "identity": 300707,
+      "start": 94827,
+      "end": 4902,
+      "type": "parent",
+      "properties": {
+
+      },
+      "elementId": "5:156ebb61-08d8-4b37-a820-18463057b14c:300707",
+      "startNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94827",
+      "endNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4902"
+    }
+  },
+  {
+    "CP": {
+      "identity": 4902,
+      "labels": [
+        "Otzst"
+      ],
+      "properties": {
+        "bst": "5371",
+        "nnkLfd": "67",
+        "vnkLfd": "66",
+        "nummer": "53411001",
+        "vtkNummer": "5340",
+        "Otzst_ID": "S8a2d544c77138127017729595e82665f",
+        "vzusatz": "O",
+        "ntkNummer": "5341",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "vst": "5371",
+        "nameAnfang": "AS Zwickau-West (10)",
+        "hasSekObj": "12",
+        "objektId": "BFC0E8797C194DC2982E8563ABE6F37F",
+        "nameEnde": "AS Zwickau-Ost (11)",
+        "stand": "2021-01-22T10:07:38",
+        "bearbeiter": "SASCHA",
+        "nzusatz": "O",
+        "abschnittId": "8a2d544c7da42472017dc1c691c95429"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4902"
+    },
+    "TD": {
+      "identity": 94826,
+      "labels": [
+        "Otvstaerke"
+      ],
+      "properties": {
+        "pt": "11.4",
+        "dtvP": "29121",
+        "dtvWKfz": "34836",
+        "dtvKfz": "36371",
+        "dtvL": "2320",
+        "dtvK": "164",
+        "dtvuPv": "33007",
+        "dtvsPv": "35507",
+        "lodtvkfz": "2.9",
+        "msv": "4108",
+        "fer": "1.15",
+        "svKfz": "13.1",
+        "ldtvkfz": "6.4",
+        "dtvuGv": "7156",
+        "dlinientyp": "D",
+        "mn": "578",
+        "dtvsGv": "1708",
+        "dtvuKfz": "40163",
+        "rkennFr": "G",
+        "mt": "1984",
+        "dtvWPv": "26645",
+        "dtvuSv": "5171",
+        "dtvsSv": "1080",
+        "bfr": "1.66",
+        "dtvLm": "3525",
+        "jahr": "2005",
+        "pdtvkfz": "80.1",
+        "dtvB": "200",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "dtvPv": "29485",
+        "dtvWGv": "8191",
+        "dtvLo": "1041",
+        "bso": "1.50",
+        "dtvGv": "6886",
+        "pkwS": "34959",
+        "zaehltage": "8",
+        "dtvWSv": "5622",
+        "fr": "1.28",
+        "tk25": "5341",
+        "pkwU": "32648",
+        "pkwW": "26328",
+        "bdtvkfz": "0.5",
+        "objektId": "7D132A3738FF4AECBE499B55E7269FEB",
+        "stand": "2021-01-22T10:13:26",
+        "dtvSv": "4766",
+        "lmdtvkfz": "9.7",
+        "Otvstaerke_ID": "S8a2d544c771381270177295eaba468d4",
+        "msvRW": "2441",
+        "msvRU": "2528",
+        "f": "0.99",
+        "msvRS": "2364",
+        "dtvsKfz": "37215",
+        "msvS": "3895",
+        "msvR": "2592",
+        "gvKfz": "18.9",
+        "rkenn": "S",
+        "msvW": "3821",
+        "msvU": "3875",
+        "hasSekObj": "0",
+        "pvKfz": "81.1",
+        "ADatum": "2006-12-30",
+        "quartal": "0",
+        "kdtvkfz": "0.5",
+        "pn": "24.5",
+        "bearbeiter": "SASCHA"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94826"
+    },
+    "r": {
+      "identity": 300702,
+      "start": 94826,
+      "end": 4902,
+      "type": "parent",
+      "properties": {
+
+      },
+      "elementId": "5:156ebb61-08d8-4b37-a820-18463057b14c:300702",
+      "startNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94826",
+      "endNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4902"
+    }
+  },
+  {
+    "CP": {
+      "identity": 4902,
+      "labels": [
+        "Otzst"
+      ],
+      "properties": {
+        "bst": "5371",
+        "nnkLfd": "67",
+        "vnkLfd": "66",
+        "nummer": "53411001",
+        "vtkNummer": "5340",
+        "Otzst_ID": "S8a2d544c77138127017729595e82665f",
+        "vzusatz": "O",
+        "ntkNummer": "5341",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "vst": "5371",
+        "nameAnfang": "AS Zwickau-West (10)",
+        "hasSekObj": "12",
+        "objektId": "BFC0E8797C194DC2982E8563ABE6F37F",
+        "nameEnde": "AS Zwickau-Ost (11)",
+        "stand": "2021-01-22T10:07:38",
+        "bearbeiter": "SASCHA",
+        "nzusatz": "O",
+        "abschnittId": "8a2d544c7da42472017dc1c691c95429"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4902"
+    },
+    "TD": {
+      "identity": 94825,
+      "labels": [
+        "Otvstaerke"
+      ],
+      "properties": {
+        "dtvGv": "7894",
+        "dtvP": "26899",
+        "dtvKfz": "35025",
+        "dtvL": "2304",
+        "dtvK": "83",
+        "dtvLm": "4513",
+        "jahr": "2010",
+        "gvKfz": "22.5",
+        "dtvB": "149",
+        "vabstVst": "0.0",
+        "behoerde": "090000",
+        "svKfz": "16.4",
+        "hasSekObj": "0",
+        "pvKfz": "77.5",
+        "ADatum": "2011-12-05",
+        "quartal": "0",
+        "objektId": "b068032878524d24af080d226001e4ba",
+        "dtvPv": "27131",
+        "stand": "2021-01-22T10:13:26",
+        "dtvSv": "5739",
+        "dtvLo": "1077",
+        "bearbeiter": "SASCHA",
+        "Otvstaerke_ID": "S8a2d544c771381270177295eab9e68d3"
+      },
+      "elementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94825"
+    },
+    "r": {
+      "identity": 300697,
+      "start": 94825,
+      "end": 4902,
+      "type": "parent",
+      "properties": {
+
+      },
+      "elementId": "5:156ebb61-08d8-4b37-a820-18463057b14c:300697",
+      "startNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:94825",
+      "endNodeElementId": "4:156ebb61-08d8-4b37-a820-18463057b14c:4902"
+    }
+  }
+]

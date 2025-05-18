@@ -1,0 +1,1410 @@
+﻿[
+  {
+    "b": {
+      "identity": 61696,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 1",
+        "Teilbauwerksname": "Überbau FR Hof                                    ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1994-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "6 Spannbeton - FT - Träger mit Ortbetonplatte     ",
+        "Teilbauwerk_ID": "5340700 1 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61696"
+    },
+    "i": {
+      "identity": 259456,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "QO0JU4PC",
+        "InspectionDate": "2020-04-14 00:00:00",
+        "ConditionGrade": 2.4,
+        "Cycle": 72,
+        "Notes": " ",
+        "InspectionNumber": 0
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:259456"
+    },
+    "r": {
+      "identity": 665311,
+      "start": 61696,
+      "end": 259456,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:665311",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61696",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:259456"
+    }
+  },
+  {
+    "b": {
+      "identity": 61696,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 1",
+        "Teilbauwerksname": "Überbau FR Hof                                    ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1994-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "6 Spannbeton - FT - Träger mit Ortbetonplatte     ",
+        "Teilbauwerk_ID": "5340700 1 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61696"
+    },
+    "i": {
+      "identity": 259455,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "T40XY9ZW",
+        "InspectionDate": "2009-09-25 00:00:00",
+        "ConditionGrade": 2.4,
+        "Cycle": 72,
+        "Notes": " ",
+        "InspectionNumber": 0
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:259455"
+    },
+    "r": {
+      "identity": 665309,
+      "start": 61696,
+      "end": 259455,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:665309",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61696",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:259455"
+    }
+  },
+  {
+    "b": {
+      "identity": 61696,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 1",
+        "Teilbauwerksname": "Überbau FR Hof                                    ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1994-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "6 Spannbeton - FT - Träger mit Ortbetonplatte     ",
+        "Teilbauwerk_ID": "5340700 1 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61696"
+    },
+    "i": {
+      "identity": 259454,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "450N9BJ1",
+        "InspectionDate": "2014-07-14 00:00:00",
+        "ConditionGrade": 2.4,
+        "Cycle": 72,
+        "Notes": " ",
+        "InspectionNumber": 0
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:259454"
+    },
+    "r": {
+      "identity": 665307,
+      "start": 61696,
+      "end": 259454,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:665307",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61696",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:259454"
+    }
+  },
+  {
+    "b": {
+      "identity": 61696,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 1",
+        "Teilbauwerksname": "Überbau FR Hof                                    ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1994-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "6 Spannbeton - FT - Träger mit Ortbetonplatte     ",
+        "Teilbauwerk_ID": "5340700 1 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61696"
+    },
+    "i": {
+      "identity": 259453,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "KP0ST5GD",
+        "InspectionDate": "2002-12-19 00:00:00",
+        "ConditionGrade": 2.3,
+        "Notes": "In Papier vorhanden.***",
+        "Cycle": 72,
+        "InspectionNumber": 6
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:259453"
+    },
+    "r": {
+      "identity": 665305,
+      "start": 61696,
+      "end": 259453,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:665305",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61696",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:259453"
+    }
+  },
+  {
+    "b": {
+      "identity": 61696,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 1",
+        "Teilbauwerksname": "Überbau FR Hof                                    ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1994-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "6 Spannbeton - FT - Träger mit Ortbetonplatte     ",
+        "Teilbauwerk_ID": "5340700 1 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61696"
+    },
+    "i": {
+      "identity": 259452,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "IP0GT556",
+        "InspectionDate": "2012-06-07 00:00:00",
+        "ConditionGrade": 2.4,
+        "Cycle": 72,
+        "Notes": " ",
+        "InspectionNumber": 0
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:259452"
+    },
+    "r": {
+      "identity": 665303,
+      "start": 61696,
+      "end": 259452,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:665303",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61696",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:259452"
+    }
+  },
+  {
+    "b": {
+      "identity": 61696,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 1",
+        "Teilbauwerksname": "Überbau FR Hof                                    ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1994-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "6 Spannbeton - FT - Träger mit Ortbetonplatte     ",
+        "Teilbauwerk_ID": "5340700 1 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61696"
+    },
+    "i": {
+      "identity": 259451,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "890RYJKH",
+        "InspectionDate": "1999-08-27 00:00:00",
+        "ConditionGrade": 2.3,
+        "Cycle": 72,
+        "Notes": "***",
+        "InspectionNumber": 2
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:259451"
+    },
+    "r": {
+      "identity": 665301,
+      "start": 61696,
+      "end": 259451,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:665301",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61696",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:259451"
+    }
+  },
+  {
+    "b": {
+      "identity": 61696,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 1",
+        "Teilbauwerksname": "Überbau FR Hof                                    ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1994-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "6 Spannbeton - FT - Träger mit Ortbetonplatte     ",
+        "Teilbauwerk_ID": "5340700 1 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61696"
+    },
+    "i": {
+      "identity": 259450,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "890RYJN3",
+        "InspectionDate": "1994-11-09 00:00:00",
+        "ConditionGrade": 0.0,
+        "Cycle": 72,
+        "InspectionNumber": 3
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:259450"
+    },
+    "r": {
+      "identity": 665299,
+      "start": 61696,
+      "end": 259450,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:665299",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61696",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:259450"
+    }
+  },
+  {
+    "b": {
+      "identity": 61696,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 1",
+        "Teilbauwerksname": "Überbau FR Hof                                    ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1994-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "6 Spannbeton - FT - Träger mit Ortbetonplatte     ",
+        "Teilbauwerk_ID": "5340700 1 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61696"
+    },
+    "i": {
+      "identity": 259449,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "PO136CC3",
+        "InspectionDate": "2006-01-18 00:00:00",
+        "ConditionGrade": 2.5,
+        "Cycle": 72,
+        "Notes": "***",
+        "InspectionNumber": 5
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:259449"
+    },
+    "r": {
+      "identity": 665297,
+      "start": 61696,
+      "end": 259449,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:665297",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61696",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:259449"
+    }
+  },
+  {
+    "b": {
+      "identity": 61696,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 1",
+        "Teilbauwerksname": "Überbau FR Hof                                    ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1994-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "6 Spannbeton - FT - Träger mit Ortbetonplatte     ",
+        "Teilbauwerk_ID": "5340700 1 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61696"
+    },
+    "i": {
+      "identity": 259448,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "0D0J5DCL",
+        "InspectionDate": "2017-08-10 00:00:00",
+        "ConditionGrade": 2.4,
+        "Cycle": 72,
+        "Notes": " ",
+        "InspectionNumber": 0
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:259448"
+    },
+    "r": {
+      "identity": 665295,
+      "start": 61696,
+      "end": 259448,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:665295",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61696",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:259448"
+    }
+  },
+  {
+    "b": {
+      "identity": 61696,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 1",
+        "Teilbauwerksname": "Überbau FR Hof                                    ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1994-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "6 Spannbeton - FT - Träger mit Ortbetonplatte     ",
+        "Teilbauwerk_ID": "5340700 1 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61696"
+    },
+    "i": {
+      "identity": 259447,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "890RYJN4",
+        "InspectionDate": "1996-09-26 00:00:00",
+        "ConditionGrade": 2.5,
+        "Notes": "Prüfer:  Herr Golle***",
+        "Cycle": 72,
+        "InspectionNumber": 4
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:259447"
+    },
+    "r": {
+      "identity": 665293,
+      "start": 61696,
+      "end": 259447,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:665293",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61696",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:259447"
+    }
+  },
+  {
+    "b": {
+      "identity": 61697,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 2",
+        "Teilbauwerksname": "Überbau FR Chemnitz                               ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1993-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "6 Spannbeton - FT - Träger mit Ortbetonplatte     ",
+        "Teilbauwerk_ID": "5340700 2 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61697"
+    },
+    "i": {
+      "identity": 259457,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "0D0V9VJS",
+        "InspectionDate": "2017-08-10 00:00:00",
+        "ConditionGrade": 2.4,
+        "Cycle": 72,
+        "Notes": " ",
+        "InspectionNumber": 0
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:259457"
+    },
+    "r": {
+      "identity": 665313,
+      "start": 61697,
+      "end": 259457,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:665313",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61697",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:259457"
+    }
+  },
+  {
+    "b": {
+      "identity": 61697,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 2",
+        "Teilbauwerksname": "Überbau FR Chemnitz                               ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1993-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "6 Spannbeton - FT - Träger mit Ortbetonplatte     ",
+        "Teilbauwerk_ID": "5340700 2 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61697"
+    },
+    "i": {
+      "identity": 243932,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "QO0JWQ3Y",
+        "InspectionDate": "2020-04-14 00:00:00",
+        "ConditionGrade": 2.4,
+        "Cycle": 72,
+        "Notes": " ",
+        "InspectionNumber": 0
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:243932"
+    },
+    "r": {
+      "identity": 634263,
+      "start": 61697,
+      "end": 243932,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:634263",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61697",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:243932"
+    }
+  },
+  {
+    "b": {
+      "identity": 61697,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 2",
+        "Teilbauwerksname": "Überbau FR Chemnitz                               ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1993-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "6 Spannbeton - FT - Träger mit Ortbetonplatte     ",
+        "Teilbauwerk_ID": "5340700 2 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61697"
+    },
+    "i": {
+      "identity": 243931,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "890RYJN1",
+        "InspectionDate": "1994-11-09 00:00:00",
+        "ConditionGrade": 0.0,
+        "Cycle": 72,
+        "InspectionNumber": 3
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:243931"
+    },
+    "r": {
+      "identity": 634261,
+      "start": 61697,
+      "end": 243931,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:634261",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61697",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:243931"
+    }
+  },
+  {
+    "b": {
+      "identity": 61697,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 2",
+        "Teilbauwerksname": "Überbau FR Chemnitz                               ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1993-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "6 Spannbeton - FT - Träger mit Ortbetonplatte     ",
+        "Teilbauwerk_ID": "5340700 2 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61697"
+    },
+    "i": {
+      "identity": 243930,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "890RYJN2",
+        "InspectionDate": "1996-09-26 00:00:00",
+        "ConditionGrade": 2.5,
+        "Notes": "Prüfer:  Herr Golle***",
+        "Cycle": 72,
+        "InspectionNumber": 4
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:243930"
+    },
+    "r": {
+      "identity": 634259,
+      "start": 61697,
+      "end": 243930,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:634259",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61697",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:243930"
+    }
+  },
+  {
+    "b": {
+      "identity": 61697,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 2",
+        "Teilbauwerksname": "Überbau FR Chemnitz                               ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1993-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "6 Spannbeton - FT - Träger mit Ortbetonplatte     ",
+        "Teilbauwerk_ID": "5340700 2 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61697"
+    },
+    "i": {
+      "identity": 243929,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "PO12YK0N",
+        "InspectionDate": "2006-01-18 00:00:00",
+        "ConditionGrade": 2.5,
+        "Cycle": 72,
+        "Notes": "***",
+        "InspectionNumber": 5
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:243929"
+    },
+    "r": {
+      "identity": 634257,
+      "start": 61697,
+      "end": 243929,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:634257",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61697",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:243929"
+    }
+  },
+  {
+    "b": {
+      "identity": 61697,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 2",
+        "Teilbauwerksname": "Überbau FR Chemnitz                               ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1993-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "6 Spannbeton - FT - Träger mit Ortbetonplatte     ",
+        "Teilbauwerk_ID": "5340700 2 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61697"
+    },
+    "i": {
+      "identity": 243928,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "T40XSX6X",
+        "InspectionDate": "2009-09-25 00:00:00",
+        "ConditionGrade": 2.5,
+        "Cycle": 72,
+        "Notes": " ",
+        "InspectionNumber": 0
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:243928"
+    },
+    "r": {
+      "identity": 634255,
+      "start": 61697,
+      "end": 243928,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:634255",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61697",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:243928"
+    }
+  },
+  {
+    "b": {
+      "identity": 61697,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 2",
+        "Teilbauwerksname": "Überbau FR Chemnitz                               ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1993-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "6 Spannbeton - FT - Träger mit Ortbetonplatte     ",
+        "Teilbauwerk_ID": "5340700 2 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61697"
+    },
+    "i": {
+      "identity": 243927,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "450NCVXU",
+        "InspectionDate": "2014-07-14 00:00:00",
+        "ConditionGrade": 2.5,
+        "Cycle": 72,
+        "Notes": " ",
+        "InspectionNumber": 0
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:243927"
+    },
+    "r": {
+      "identity": 634253,
+      "start": 61697,
+      "end": 243927,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:634253",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61697",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:243927"
+    }
+  },
+  {
+    "b": {
+      "identity": 61697,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 2",
+        "Teilbauwerksname": "Überbau FR Chemnitz                               ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1993-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "6 Spannbeton - FT - Träger mit Ortbetonplatte     ",
+        "Teilbauwerk_ID": "5340700 2 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61697"
+    },
+    "i": {
+      "identity": 243926,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "KP0SUCSO",
+        "InspectionDate": "2002-12-19 00:00:00",
+        "ConditionGrade": 2.3,
+        "Notes": "In Papier vorhanden.***",
+        "Cycle": 72,
+        "InspectionNumber": 6
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:243926"
+    },
+    "r": {
+      "identity": 634251,
+      "start": 61697,
+      "end": 243926,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:634251",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61697",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:243926"
+    }
+  },
+  {
+    "b": {
+      "identity": 61697,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 2",
+        "Teilbauwerksname": "Überbau FR Chemnitz                               ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1993-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "6 Spannbeton - FT - Träger mit Ortbetonplatte     ",
+        "Teilbauwerk_ID": "5340700 2 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61697"
+    },
+    "i": {
+      "identity": 243925,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "IR0M7OZN",
+        "InspectionDate": "2012-06-07 00:00:00",
+        "ConditionGrade": 2.5,
+        "Cycle": 72,
+        "Notes": " ",
+        "InspectionNumber": 0
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:243925"
+    },
+    "r": {
+      "identity": 634249,
+      "start": 61697,
+      "end": 243925,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:634249",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61697",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:243925"
+    }
+  },
+  {
+    "b": {
+      "identity": 61697,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 2",
+        "Teilbauwerksname": "Überbau FR Chemnitz                               ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1993-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "6 Spannbeton - FT - Träger mit Ortbetonplatte     ",
+        "Teilbauwerk_ID": "5340700 2 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61697"
+    },
+    "i": {
+      "identity": 125020,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "890RYJKI",
+        "InspectionDate": "1999-08-27 00:00:00",
+        "ConditionGrade": 2.3,
+        "Cycle": 72,
+        "Notes": "***",
+        "InspectionNumber": 2
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:125020"
+    },
+    "r": {
+      "identity": 396439,
+      "start": 61697,
+      "end": 125020,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:396439",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61697",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:125020"
+    }
+  },
+  {
+    "b": {
+      "identity": 61700,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 1",
+        "Teilbauwerksname": "Überbau FR Hof                                    ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1994-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "Einfeld - Stahlbetonplattenbrücke                 ",
+        "Teilbauwerk_ID": "5340702 1 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61700"
+    },
+    "i": {
+      "identity": 193166,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "QO0K3RVW",
+        "InspectionDate": "2020-04-14 00:00:00",
+        "ConditionGrade": 2.4,
+        "Cycle": 72,
+        "Notes": " ",
+        "InspectionNumber": 0
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:193166"
+    },
+    "r": {
+      "identity": 532731,
+      "start": 61700,
+      "end": 193166,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:532731",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61700",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:193166"
+    }
+  },
+  {
+    "b": {
+      "identity": 61700,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 1",
+        "Teilbauwerksname": "Überbau FR Hof                                    ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1994-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "Einfeld - Stahlbetonplattenbrücke                 ",
+        "Teilbauwerk_ID": "5340702 1 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61700"
+    },
+    "i": {
+      "identity": 193165,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "2Z0NQVQG",
+        "InspectionDate": "2014-07-14 00:00:00",
+        "ConditionGrade": 2.4,
+        "Cycle": 72,
+        "Notes": " ",
+        "InspectionNumber": 0
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:193165"
+    },
+    "r": {
+      "identity": 532729,
+      "start": 61700,
+      "end": 193165,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:532729",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61700",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:193165"
+    }
+  },
+  {
+    "b": {
+      "identity": 61700,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 1",
+        "Teilbauwerksname": "Überbau FR Hof                                    ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1994-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "Einfeld - Stahlbetonplattenbrücke                 ",
+        "Teilbauwerk_ID": "5340702 1 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61700"
+    },
+    "i": {
+      "identity": 193164,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "CU0YAF4N",
+        "InspectionDate": "2011-09-29 00:00:00",
+        "ConditionGrade": 2.4,
+        "Cycle": 72,
+        "Notes": " ",
+        "InspectionNumber": 0
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:193164"
+    },
+    "r": {
+      "identity": 532727,
+      "start": 61700,
+      "end": 193164,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:532727",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61700",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:193164"
+    }
+  },
+  {
+    "b": {
+      "identity": 61700,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 1",
+        "Teilbauwerksname": "Überbau FR Hof                                    ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1994-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "Einfeld - Stahlbetonplattenbrücke                 ",
+        "Teilbauwerk_ID": "5340702 1 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61700"
+    },
+    "i": {
+      "identity": 193163,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "890RYJKT",
+        "InspectionDate": "2001-01-26 00:00:00",
+        "ConditionGrade": 1.0,
+        "Cycle": 72,
+        "Notes": "***",
+        "InspectionNumber": 2
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:193163"
+    },
+    "r": {
+      "identity": 532725,
+      "start": 61700,
+      "end": 193163,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:532725",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61700",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:193163"
+    }
+  },
+  {
+    "b": {
+      "identity": 61700,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 1",
+        "Teilbauwerksname": "Überbau FR Hof                                    ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1994-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "Einfeld - Stahlbetonplattenbrücke                 ",
+        "Teilbauwerk_ID": "5340702 1 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61700"
+    },
+    "i": {
+      "identity": 192435,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "I215L0RG",
+        "InspectionDate": "2005-04-18 00:00:00",
+        "ConditionGrade": 2.0,
+        "Cycle": 72,
+        "Notes": "***",
+        "InspectionNumber": 6
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:192435"
+    },
+    "r": {
+      "identity": 531269,
+      "start": 61700,
+      "end": 192435,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:531269",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61700",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:192435"
+    }
+  },
+  {
+    "b": {
+      "identity": 61700,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 1",
+        "Teilbauwerksname": "Überbau FR Hof                                    ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1994-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "Einfeld - Stahlbetonplattenbrücke                 ",
+        "Teilbauwerk_ID": "5340702 1 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61700"
+    },
+    "i": {
+      "identity": 191977,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "K70LA68O",
+        "InspectionDate": "2009-01-22 00:00:00",
+        "ConditionGrade": 2.3,
+        "Cycle": 72,
+        "Notes": " ",
+        "InspectionNumber": 0
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:191977"
+    },
+    "r": {
+      "identity": 530353,
+      "start": 61700,
+      "end": 191977,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:530353",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61700",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:191977"
+    }
+  },
+  {
+    "b": {
+      "identity": 61700,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 1",
+        "Teilbauwerksname": "Überbau FR Hof                                    ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1994-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "Einfeld - Stahlbetonplattenbrücke                 ",
+        "Teilbauwerk_ID": "5340702 1 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61700"
+    },
+    "i": {
+      "identity": 191956,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "890RYJMP",
+        "InspectionDate": "1998-05-11 00:00:00",
+        "ConditionGrade": 2.4,
+        "Notes": "Prüfer:  Herr Golle***",
+        "Cycle": 72,
+        "InspectionNumber": 4
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:191956"
+    },
+    "r": {
+      "identity": 530311,
+      "start": 61700,
+      "end": 191956,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:530311",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61700",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:191956"
+    }
+  },
+  {
+    "b": {
+      "identity": 61700,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 1",
+        "Teilbauwerksname": "Überbau FR Hof                                    ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1994-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "Einfeld - Stahlbetonplattenbrücke                 ",
+        "Teilbauwerk_ID": "5340702 1 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61700"
+    },
+    "i": {
+      "identity": 191949,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "890RYJMO",
+        "InspectionDate": "1995-02-22 00:00:00",
+        "ConditionGrade": 0.0,
+        "Cycle": 72,
+        "Notes": "Prüfer:  Herr Fritsche, Herr Fieker***",
+        "InspectionNumber": 3
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:191949"
+    },
+    "r": {
+      "identity": 530297,
+      "start": 61700,
+      "end": 191949,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:530297",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61700",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:191949"
+    }
+  },
+  {
+    "b": {
+      "identity": 61700,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 1",
+        "Teilbauwerksname": "Überbau FR Hof                                    ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1994-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "Einfeld - Stahlbetonplattenbrücke                 ",
+        "Teilbauwerk_ID": "5340702 1 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61700"
+    },
+    "i": {
+      "identity": 191577,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "080OC2AV",
+        "InspectionDate": "2017-08-08 00:00:00",
+        "ConditionGrade": 2.5,
+        "Cycle": 72,
+        "Notes": " ",
+        "InspectionNumber": 0
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:191577"
+    },
+    "r": {
+      "identity": 529553,
+      "start": 61700,
+      "end": 191577,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:529553",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61700",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:191577"
+    }
+  },
+  {
+    "b": {
+      "identity": 61700,
+      "labels": [
+        "Teilbauwerk"
+      ],
+      "properties": {
+        "Teilbauwerksnummer": " 1",
+        "Teilbauwerksname": "Überbau FR Hof                                    ",
+        "Bemerkungen": " ***",
+        "YearOfConstruction": "1994-01-01 00:00:00",
+        "Funktion": "Nein",
+        "Datenerfassung_abgeschlossen": "True",
+        "Konstruktion_Beschreibung": "Einfeld - Stahlbetonplattenbrücke                 ",
+        "Teilbauwerk_ID": "5340702 1 ",
+        "Denkmalschutz": "False"
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61700"
+    },
+    "i": {
+      "identity": 191553,
+      "labels": [
+        "Inspection"
+      ],
+      "properties": {
+        "Insepction_ID": "890RYJMQ",
+        "InspectionDate": "1996-10-02 00:00:00",
+        "ConditionGrade": 2.4,
+        "Notes": "Prüfer:  Herr Golle***",
+        "Cycle": 72,
+        "InspectionNumber": 5
+      },
+      "elementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:191553"
+    },
+    "r": {
+      "identity": 529505,
+      "start": 61700,
+      "end": 191553,
+      "type": "inspected_at",
+      "properties": {
+
+      },
+      "elementId": "5:bbd9b837-a434-423a-81ee-b45ec44fd6a2:529505",
+      "startNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:61700",
+      "endNodeElementId": "4:bbd9b837-a434-423a-81ee-b45ec44fd6a2:191553"
+    }
+  }
+]
